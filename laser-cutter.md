@@ -23,39 +23,6 @@ This page documents the GerLab laser cutter, including machine information, tech
 
 ---
 
-## Photos
-
-Add GerLab’s own photos here.
-
-Recommended photos:
-
-- Front view of machine
-- Working bed
-- Control panel / touchscreen
-- Emergency stop button
-- Exhaust connection
-- Air Assist / lens area
-- Example cutting result
-- Example engraving result
-- Good test result
-- Failed test result
-
-Suggested folder:
-
-    assets/laser-cutter/
-
-Example image links:
-
-    ![Laser cutter front view](assets/laser-cutter/front-view.jpg)
-
-    ![Laser cutter bed](assets/laser-cutter/laser-bed.jpg)
-
-    ![Laser cutter control panel](assets/laser-cutter/control-panel.jpg)
-
-    ![Laser cutter sample result](assets/laser-cutter/sample-result.jpg)
-
----
-
 ## Technical Specifications
 
 Source: Epilog FusionPro Laser System Manual, Model 16000.
@@ -459,7 +426,6 @@ Use these only as a reference. Final settings must come from real GerLab materia
 
 ## GerLab Tested Settings Record
 
-Use this table to record real GerLab test results.
 
 | Date | Material | Thickness | Process | Speed | Power | Frequency / DPI | Focus / Offset | Result | Notes | Tested by |
 |---|---|---:|---|---:|---:|---|---|---|---|---|
@@ -469,35 +435,6 @@ Use this table to record real GerLab test results.
 | YYYY-MM-DD | Cardboard | TBD | Cut | TBD | TBD | TBD | TBD | TBD | TBD | Name |
 | YYYY-MM-DD | Wood | TBD | Engrave | TBD | TBD | TBD | TBD | TBD | TBD | Name |
 | YYYY-MM-DD | Leather | TBD | Engrave | TBD | TBD | TBD | TBD | TBD | TBD | Name |
-
----
-
-## Test Result Notes
-
-When recording a test, describe the result clearly.
-
-Useful result words:
-
-- Cut through cleanly
-- Did not cut through
-- Heavy burn
-- Light burn
-- Too much smoke
-- Good engraving contrast
-- Engraving too light
-- Engraving too dark
-- Edge melted
-- Edge charred
-- Material warped
-- Good result
-- Failed result
-
-Example:
-
-| Date | Material | Thickness | Process | Speed | Power | Frequency / DPI | Result | Notes |
-|---|---|---:|---|---:|---:|---|---|---|
-| 2026-07-11 | Plywood | 3 mm | Cut | 25 | 100 | 10 frequency | Cut through, slightly dark edge | Try speed 28 next |
-| 2026-07-11 | Plywood | 3 mm | Engrave | 85 | 100 | 500 DPI | Dark engraving | Good for text, too strong for photo |
 
 ---
 
