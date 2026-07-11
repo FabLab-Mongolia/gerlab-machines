@@ -34,5 +34,3 @@ Each machine guide should explain:
 GerLab machine documentation should help users work confidently, safely, and creatively.
 
 We document machines so the next maker can learn faster.
-
-We document machines so the next maker can learn faster.
