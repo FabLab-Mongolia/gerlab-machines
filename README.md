@@ -1,45 +1,87 @@
-# GerLab Machines
+# Machines
 
-This repository documents GerLab machines, fabrication tools, basic operation notes, material rules, safety risks, maintenance, troubleshooting, and tested settings.
+This repository lists GerLab fabrication equipment and links to each machine guide.
 
-GerLab machine documentation is written for students, members, collaborators, and future makers who need clear information before using workshop equipment.
+| Category | Machine | Page | Status | Qty |
+|---|---|---|---|---:|
+| Laser Cutting | Epilog Fusion Pro Laser Cutter | [laser-cutter.md](laser-cutter.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
+| CNC — Wood | ShopBot PRSalpha 96 CNC Router | [cnc-router.md](cnc-router.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
+| CNC — Metal | Tormach PCNC 1100MX CNC Mill | [cnc-mill.md](cnc-mill.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
+| CNC — Precision | Roland DG Monofab SRM-20 | [desktop-milling.md](desktop-milling.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
+| 3D Printing — FDM | Prusa i3 MK4 FDM Printer | [fdm-3d-printers.md](fdm-3d-printers.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 8 |
+| 3D Printing — Resin | Formlabs Form 3+ SLA Printer | [resin-3d-printers.md](resin-3d-printers.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 2 |
+| Vinyl & Print | Roland DG CAMM-1 GS-24 Vinyl Cutter | [vinyl-cutter.md](vinyl-cutter.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
+| Vinyl & Print | Roland DG VG3-640 Vinyl Printer | [vinyl-printer.md](vinyl-printer.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
+| Vacuum Forming | Formech 508FS Vacuum Former | [vacuum-former.md](vacuum-former.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
 
 ---
 
-## Machine Guides
+## Machine Categories
 
-| Category | Machine | Page | Brand | Qty | Status |
-|---|---|---|---|---:|---|
-| Laser Cutting | Fusion Pro 36 Laser Cutter | [laser-cutter.md](laser-cutter.md) | Epilog Laser, USA | 1 | Draft |
-| CNC — Wood | PRSalpha 96 CNC Router | [cnc-router.md](cnc-router.md) | ShopBot, USA | 1 | Draft |
-| CNC — Metal | PCNC 1100MX CNC Mill | [cnc-mill.md](cnc-mill.md) | Tormach, USA | 1 | Draft |
-| CNC — Precision | Monofab SRM-20 | [desktop-milling.md](desktop-milling.md) | Roland DG, Japan | 1 | Draft |
-| 3D Printing — FDM | Prusa i3 MK4 FDM Printer | [fdm-3d-printers.md](fdm-3d-printers.md) | Prusa Research, Czech Republic | 8 | Draft |
-| 3D Printing — Resin | Form 3+ SLA Printer | [resin-3d-printers.md](resin-3d-printers.md) | Formlabs, USA | 2 | Draft |
-| Vinyl & Print | CAMM-1 GS-24 Vinyl Cutter | [vinyl-cutter.md](vinyl-cutter.md) | Roland DG, Japan | 1 | Draft |
-| Vinyl & Print | VG3-640 Vinyl Printer | [vinyl-printer.md](vinyl-printer.md) | Roland DG, Japan | 1 | Draft |
-| Vacuum Forming | 508FS Vacuum Former | [vacuum-former.md](vacuum-former.md) | Formech, UK | 1 | Draft |
+### Laser Cutting
+
+- [Epilog Fusion Pro Laser Cutter](laser-cutter.md)  
+  High-precision digital cutting and engraving.
+
+### CNC — Wood
+
+- [ShopBot PRSalpha 96 CNC Router](cnc-router.md)  
+  Large-format CNC machining for wood and sheet materials.
+
+### CNC — Metal
+
+- [Tormach PCNC 1100MX CNC Mill](cnc-mill.md)  
+  High-precision metal milling for engineering parts.
+
+### CNC — Precision
+
+- [Roland DG Monofab SRM-20](desktop-milling.md)  
+  Desktop precision milling for PCBs and fine parts.
+
+### 3D Printing — FDM
+
+- [Prusa i3 MK4 FDM Printer](fdm-3d-printers.md)  
+  Layer-by-layer plastic object creation.
+
+### 3D Printing — Resin
+
+- [Formlabs Form 3+ SLA Printer](resin-3d-printers.md)  
+  Ultra-detailed resin printing via laser curing.
+
+### Vinyl & Print
+
+- [Roland DG CAMM-1 GS-24 Vinyl Cutter](vinyl-cutter.md)  
+  Precision blade cutting for stickers and decals.
+
+- [Roland DG VG3-640 Vinyl Printer](vinyl-printer.md)  
+  Large-format high-resolution vinyl printing.
+
+### Vacuum Forming
+
+- [Formech 508FS Vacuum Former](vacuum-former.md)  
+  Heat and vacuum-form plastic sheets over molds.
+
+---
+
+## Documentation Status
+
+| Page | Status |
+|---|---|
+| [laser-cutter.md](laser-cutter.md) | ![draft](https://img.shields.io/badge/page-draft-yellow) |
+| [cnc-router.md](cnc-router.md) | ![draft](https://img.shields.io/badge/page-draft-yellow) |
+| [cnc-mill.md](cnc-mill.md) | ![draft](https://img.shields.io/badge/page-draft-yellow) |
+| [desktop-milling.md](desktop-milling.md) | ![draft](https://img.shields.io/badge/page-draft-yellow) |
+| [fdm-3d-printers.md](fdm-3d-printers.md) | ![draft](https://img.shields.io/badge/page-draft-yellow) |
+| [resin-3d-printers.md](resin-3d-printers.md) | ![draft](https://img.shields.io/badge/page-draft-yellow) |
+| [vinyl-cutter.md](vinyl-cutter.md) | ![draft](https://img.shields.io/badge/page-draft-yellow) |
+| [vinyl-printer.md](vinyl-printer.md) | ![draft](https://img.shields.io/badge/page-draft-yellow) |
+| [vacuum-former.md](vacuum-former.md) | ![draft](https://img.shields.io/badge/page-draft-yellow) |
 
 ---
 
 ## Purpose
 
-Machines are the heart of a FabLab, but tools become useful only when people understand how to use them well.
-
-This repository helps GerLab users:
-
-- Understand what each machine is used for
-- Prepare files correctly
-- Choose suitable materials
-- Learn basic operation steps
-- Record tested settings
-- Avoid common mistakes
-- Work safely and responsibly
-- Share knowledge with the next maker
-
----
-
-## Documentation Format
+This repository helps GerLab users understand each machine before using it.
 
 Each machine page should include:
 
@@ -60,16 +102,4 @@ Each machine page should include:
 
 ---
 
-## GerLab Machine Documentation Style
-
-GerLab machine pages should be:
-
-- Clear
-- Practical
-- Beginner-friendly
-- Easy to update
-- Based on real GerLab use
-- Focused on making, testing, improving, and sharing
-
-We do not document machines only to store information.  
-We document machines so people can create better, safer, and faster.
+**Made with care in Mongolia.**
