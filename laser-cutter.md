@@ -11,7 +11,7 @@ This page documents the GerLab laser cutter, including machine information, tech
 | Machine type | Laser cutter / laser engraver |
 | Brand | Epilog Laser |
 | Series | Fusion Pro |
-| Model | Fusion Pro 48 CO₂ |
+| Model | Fusion Pro 36 CO₂ |
 | Manual model | Model 16000 |
 | Laser source | CO₂ laser |
 | Cooling | Air-cooled |
