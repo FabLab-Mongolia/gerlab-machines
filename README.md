@@ -21,47 +21,54 @@ This repository lists GerLab fabrication equipment and links to each machine gui
 ### Laser Cutting
 
 - [Epilog Fusion Pro Laser Cutter](laser-cutter.md)  
-  High-precision digital cutting and engraving.
+  High-precision digital cutting and engraving system for sheet materials.  
+  Used for prototypes, signage, patterns, educational models, art pieces, and detailed engraving work.
 
 ### CNC — Wood
 
 - [ShopBot PRSalpha 96 CNC Router](cnc-router.md)  
-  Large-format CNC machining for wood and sheet materials.
+  Large-format CNC machine for wood and sheet materials.  
+  Used for furniture parts, panels, molds, signs, large prototypes, and precise 2D/2.5D cutting.
 
 ### CNC — Metal
 
 - [Tormach PCNC 1100MX CNC Mill](cnc-mill.md)  
-  High-precision metal milling for engineering parts.
+  High-precision CNC mill for metal and engineering parts.  
+  Used for mechanical components, fixtures, aluminum parts, prototyping, and precision machining practice.
 
 ### CNC — Precision
 
 - [Roland DG Monofab SRM-20](desktop-milling.md)  
-  Desktop precision milling for PCBs and fine parts.
+  Compact desktop milling machine for fine, small-scale work.  
+  Used for PCB milling, wax models, small molds, precision prototypes, and detailed material testing.
 
 ### 3D Printing — FDM
 
 - [Prusa i3 MK4 FDM Printer](fdm-3d-printers.md)  
-  Layer-by-layer plastic object creation.
+  Filament-based 3D printer for layer-by-layer plastic object creation.  
+  Used for prototypes, mechanisms, enclosures, educational models, replacement parts, and fast design testing.
 
 ### 3D Printing — Resin
 
 - [Formlabs Form 3+ SLA Printer](resin-3d-printers.md)  
-  Ultra-detailed resin printing via laser curing.
+  High-detail resin 3D printer using laser curing technology.  
+  Used for fine models, detailed prototypes, smooth surface parts, miniatures, molds, and precision visual samples.
 
 ### Vinyl & Print
 
 - [Roland DG CAMM-1 GS-24 Vinyl Cutter](vinyl-cutter.md)  
-  Precision blade cutting for stickers and decals.
+  Precision blade cutter for vinyl sheets and adhesive materials.  
+  Used for stickers, decals, labels, signage, stencils, masking films, and custom graphic work.
 
 - [Roland DG VG3-640 Vinyl Printer](vinyl-printer.md)  
-  Large-format high-resolution vinyl printing.
+  Large-format vinyl printer for high-resolution printed graphics.  
+  Used for banners, stickers, posters, wall graphics, vehicle graphics, exhibition visuals, and printed design work.
 
 ### Vacuum Forming
 
 - [Formech 508FS Vacuum Former](vacuum-former.md)  
-  Heat and vacuum-form plastic sheets over molds.
-
----
+  Vacuum forming machine for shaping heated plastic sheets over molds.  
+  Used for packaging prototypes, plastic shells, molds, covers, educational models, cosplay parts, and product design experiments.
 
 ## Documentation Status
 
