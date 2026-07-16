@@ -9,7 +9,7 @@ This repository lists GerLab fabrication equipment and links to each machine gui
 | CNC — Metal | Tormach PCNC 1100MX CNC Mill | [cnc-mill.md](cnc-mill.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
 | CNC — Precision | Roland DG Monofab SRM-20 | [desktop-milling.md](desktop-milling.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
 | 3D Printing — FDM | Prusa i3 MK4 FDM Printer | [fdm-3d-printers.md](fdm-3d-printers.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 8 |
-| 3D Printing — Resin | Formlabs Form 3+ SLA Printer | [resin-3d-printers.md](resin-3d-printers.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 2 |
+| 3D Printing — Resin | Formlabs Form 3+ SLA Printer | [resin-3d-printers.md](resin-3d-printer.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 2 |
 | Vinyl & Print | Roland DG CAMM-1 GS-24 Vinyl Cutter | [vinyl-cutter.md](vinyl-cutter.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
 | Vinyl & Print | Roland DG VG3-640 Vinyl Printer | [vinyl-printer.md](vinyl-printer.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
 | Vacuum Forming | Formech 508FS Vacuum Former | [vacuum-former.md](vacuum-former.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
