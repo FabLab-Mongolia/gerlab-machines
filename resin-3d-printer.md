@@ -1,5 +1,9 @@
 # Resin 3D Printers
 
+[← Previous: FDM 3D Printers](fdm-3d-printers.md) · [↑ Machine Library](README.md) · [Next: Vinyl Cutter →](vinyl-cutter.md)
+
+> **Documentation status:** Draft · **Reviewed:** 2026-07-17 · GerLab verification is still required for photos, approved materials, and tested settings.
+
 This page documents GerLab’s resin 3D printers, including machine information, technical specifications, basic use, materials, file preparation, safety notes, post-processing, troubleshooting, and maintenance notes.
 
 ---
@@ -20,6 +24,8 @@ This page documents GerLab’s resin 3D printers, including machine information,
 ---
 
 ## Photos
+
+> Photo required: printer group, individual model label, resin cartridge, resin tank, build platform, control panel, wash station, cure station, and resin-work PPE area.
 
 ---
 
@@ -526,3 +532,5 @@ Useful references:
 ---
 
 **Made with care in Mongolia.**
+
+[← Previous: FDM 3D Printers](fdm-3d-printers.md) · [↑ Machine Library](README.md) · [Next: Vinyl Cutter →](vinyl-cutter.md)

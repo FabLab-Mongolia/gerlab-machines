@@ -1,5 +1,9 @@
 # Laser Cutter
 
+[↑ Machine Library](README.md) · [Next: CNC Router →](cnc-router.md)
+
+> **Documentation status:** Draft · **Reviewed:** 2026-07-17 · GerLab verification is still required for photos, approved materials, and tested settings.
+
 This page documents the GerLab laser cutter, including machine information, technical specifications, basic use, safety notes, materials, file preparation, test settings, troubleshooting, and GerLab-tested results.
 
 ---
@@ -11,21 +15,30 @@ This page documents the GerLab laser cutter, including machine information, tech
 | Machine type | Laser cutter / laser engraver |
 | Brand | Epilog Laser |
 | Series | Fusion Pro |
-| Model | Fusion Pro 36 CO₂ |
+| Model | Fusion Pro; exact 36/48 configuration requires identification-plate confirmation |
 | Manual model | Model 16000 |
 | Laser source | CO₂ laser |
 | Cooling | Air-cooled |
 | Wavelength | 10.6 µm |
-| Working area | 48" × 36" / 1219 × 914 mm |
+| Working area | Verification required |
 | Location | GerLab laser / vinyl room |
 | Main use | Cutting and engraving sheet materials |
 | Status | Active |
+| Verification note | Confirm the exact machine size and laser wattage from the identification plate before finalizing model-specific specifications |
+
+---
+
+## Photos
+
+> Photo required: full machine, identification plate, control panel, emergency stop, work bed, exhaust connection, and Air Assist connection.
 
 ---
 
 ## Technical Specifications
 
-Source: Epilog FusionPro Laser System Manual, Model 16000.
+Source: Epilog Fusion Pro Laser System Manual, Model 16000.
+
+> **Verification required:** The specifications currently recorded below match a Fusion Pro 48 configuration. GerLab's machine identification plate, laser wattage label, bed dimensions, and exhaust-port layout must be checked before these values are approved.
 
 ### Machine Model
 
@@ -33,7 +46,7 @@ Source: Epilog FusionPro Laser System Manual, Model 16000.
 |---|---|
 | Brand | Epilog Laser |
 | Series | Fusion Pro |
-| Model | Fusion Pro 48 CO₂ |
+| Reference configuration | Fusion Pro 48 CO₂; not yet confirmed as GerLab's exact configuration |
 | Manual model | Model 16000 |
 | Machine type | Laser materials processing system |
 | Laser source | CO₂ |
@@ -242,6 +255,17 @@ Important safety points:
 
 ---
 
+## Personal Protective Equipment
+
+- Closed shoes are required in the workshop.
+- Wear suitable gloves only when handling sharp sheet edges after the machine has stopped.
+- Do not wear gloves while adjusting moving machine components.
+- Use eye or respiratory protection for post-processing only when the material or task requires it.
+
+The enclosure and exhaust system are the primary controls during laser operation. PPE does not make an unknown or prohibited material safe to process.
+
+---
+
 ## Air Assist
 
 Air Assist helps reduce flare-ups by directing air across the cutting surface.
@@ -336,6 +360,21 @@ Common file formats:
 - DXF
 - PDF
 - PNG / JPG for engraving
+
+---
+
+## Software Workflow
+
+1. Prepare artwork in approved vector or raster design software.
+2. Set the document size and units to match the real material.
+3. Use vector paths for cutting and raster artwork for engraving.
+4. Assign clear colors or layers to separate operations.
+5. Open the file through the Epilog print driver or approved GerLab workflow.
+6. Confirm material, thickness, focus, speed, power, frequency, resolution, and Air Assist.
+7. Preview the job with the IRIS camera system where available.
+8. Run a small test before processing unfamiliar material.
+
+Do not treat settings copied from another laser, another wattage, or an online table as verified GerLab settings.
 
 ---
 
@@ -488,18 +527,16 @@ Possible maintenance items:
 
 ---
 
-## To Add Later
+## Documentation Status
 
-- Add GerLab photos
-- Add official approved material list
-- Add final prohibited material list
-- Add real GerLab-tested settings
-- Add emergency stop photo
-- Add cleaning procedure
-- Add software workflow
-- Add Mongolian translation
-- Add quick beginner guide
-- Add common file templates
+- Machine size and wattage: identification-plate confirmation required
+- GerLab photos: required
+- Official approved-material list: awaiting GerLab approval
+- Final prohibited-material list: awaiting GerLab approval
+- GerLab-tested settings: no verified records added yet
+- Emergency stop photo: required
+- Mongolian translation: planned
+- Common file templates: planned
 
 ---
 
@@ -507,6 +544,13 @@ Possible maintenance items:
 
 This page is based on GerLab use notes and the Epilog FusionPro Laser System Manual, Model 16000.
 
+Useful references:
+
+- [Epilog Fusion Pro Laser System Manual](https://www.epiloglaser.com/assets/downloads/manuals/fusion-pro_manual.pdf)
+- [Epilog Laser Manuals](https://www.epiloglaser.com/support/laser-manuals/)
+
 ---
 
 **Made with care in Mongolia.**
+
+[↑ Machine Library](README.md) · [Next: CNC Router →](cnc-router.md)
