@@ -1,5 +1,9 @@
 # CNC Router
 
+[← Previous: Laser Cutter](laser-cutter.md) · [↑ Machine Library](README.md) · [Next: CNC Mill →](cnc-mill.md)
+
+> **Documentation status:** Draft · **Reviewed:** 2026-07-17 · GerLab verification is still required for photos, approved materials, and tested settings.
+
 This page documents GerLab’s CNC router, including machine information, technical specifications, basic use, materials, safety notes, file preparation, toolpath workflow, troubleshooting, and maintenance notes.
 
 ---
@@ -20,6 +24,8 @@ This page documents GerLab’s CNC router, including machine information, techni
 ---
 
 ## Photos
+
+> Photo required: full machine, model label, control box, spindle, collet, tool setter, work bed, dust skirt, dust collector, and emergency stop.
 
 ---
 
@@ -847,3 +853,5 @@ Useful references:
 ---
 
 **Made with care in Mongolia.**
+
+[← Previous: Laser Cutter](laser-cutter.md) · [↑ Machine Library](README.md) · [Next: CNC Mill →](cnc-mill.md)

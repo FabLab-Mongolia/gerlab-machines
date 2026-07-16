@@ -1,5 +1,9 @@
 # FDM 3D Printers
 
+[← Previous: Desktop Milling](desktop-milling.md) · [↑ Machine Library](README.md) · [Next: Resin 3D Printers →](resin-3d-printer.md)
+
+> **Documentation status:** Draft · **Reviewed:** 2026-07-17 · GerLab verification is still required for photos, approved materials, and tested settings.
+
 This page documents GerLab’s FDM 3D printers, including machine information, technical specifications, basic use, materials, file preparation, tested settings, troubleshooting, and maintenance notes.
 
 ---
@@ -20,6 +24,8 @@ This page documents GerLab’s FDM 3D printers, including machine information, t
 ---
 
 ## Photos
+
+> Photo required: printer group, individual model label, control panel, Nextruder, build plate, filament path, and printer-number labels.
 
 ---
 
@@ -106,6 +112,17 @@ Safe behavior:
 - Keep filament spools mounted correctly.
 - Stop the print if the first layer fails badly.
 - Ask GerLab staff before using unfamiliar filament.
+
+---
+
+## Personal Protective Equipment
+
+- Closed shoes are required in the workshop.
+- Wear safety glasses when cutting or removing brittle supports if fragments may fly.
+- Wear heat-resistant gloves only for an approved maintenance task after the printer is isolated.
+- Use respiratory protection only where GerLab's material assessment requires it.
+
+Do not touch the nozzle, heater block, or build plate to test whether it is hot.
 
 ---
 
@@ -339,6 +356,13 @@ Before printing:
 
 This page is based on GerLab equipment information, GerLab use notes, and official Prusa technical information.
 
+Useful references:
+
+- [Original Prusa MK4 Documentation](https://help.prusa3d.com/tag/mk4)
+- [PrusaSlicer Documentation](https://help.prusa3d.com/category/prusaslicer_204)
+
 ---
 
 **Made with care in Mongolia.**
+
+[← Previous: Desktop Milling](desktop-milling.md) · [↑ Machine Library](README.md) · [Next: Resin 3D Printers →](resin-3d-printer.md)

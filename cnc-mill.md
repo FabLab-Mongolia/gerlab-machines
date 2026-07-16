@@ -1,5 +1,9 @@
 # CNC Mill
 
+[← Previous: CNC Router](cnc-router.md) · [↑ Machine Library](README.md) · [Next: Desktop Milling →](desktop-milling.md)
+
+> **Documentation status:** Draft · **Reviewed:** 2026-07-17 · GerLab verification is still required for photos, approved materials, and tested settings.
+
 This page documents GerLab’s CNC mill, including machine information, technical specifications, basic use, materials, safety notes, file preparation, CAM workflow, machining workflow, troubleshooting, and maintenance notes.
 
 ---
@@ -10,7 +14,7 @@ This page documents GerLab’s CNC mill, including machine information, technica
 |---|---|
 | Machine type | CNC vertical milling machine |
 | Brand | Tormach |
-| Model | PCNC 1100MX CNC Mill |
+| Model | 1100MX CNC Mill |
 | Origin | USA |
 | Quantity | 1 set |
 | Category | CNC — Metal |
@@ -21,6 +25,7 @@ This page documents GerLab’s CNC mill, including machine information, technica
 
 ## Photos
 
+> Photo required: full machine, model label, control panel, enclosure, spindle, tool holders, vise, coolant system, and emergency stop.
 
 ---
 
@@ -30,7 +35,7 @@ This page documents GerLab’s CNC mill, including machine information, technica
 |---|---|
 | Machine type | CNC vertical milling machine |
 | Brand | Tormach |
-| Model | PCNC 1100MX |
+| Model | 1100MX |
 | X-axis travel | 18 in / 457 mm |
 | Y-axis travel | 11 in / 279 mm |
 | Z-axis travel | 16.25 in / 413 mm |
@@ -43,8 +48,8 @@ This page documents GerLab’s CNC mill, including machine information, technica
 | Transmission | Poly-V belt |
 | Spindle taper | BT30 |
 | Thread machining | Tension/compression tapping, rigid tapping, thread milling |
-| Maximum feed rate, X/Y | 300 IPM / 2.7 m/min |
-| Maximum feed rate, Z | 230 IPM / 2.2 m/min |
+| Maximum feed rate, X/Y | 300 IPM / 7.62 m/min |
+| Maximum feed rate, Z | 230 IPM / 5.84 m/min |
 | Axis motors | Servo driven |
 | Motion resolution | 0.0001 in |
 | Ball screw positional accuracy | ≤ 0.0006 in/ft |
@@ -923,3 +928,5 @@ Useful references:
 ---
 
 **Made with care in Mongolia.**
+
+[← Previous: CNC Router](cnc-router.md) · [↑ Machine Library](README.md) · [Next: Desktop Milling →](desktop-milling.md)

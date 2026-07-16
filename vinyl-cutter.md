@@ -1,5 +1,9 @@
 # Vinyl Cutter
 
+[← Previous: Resin 3D Printers](resin-3d-printer.md) · [↑ Machine Library](README.md) · [Next: Vinyl Printer →](vinyl-printer.md)
+
+> **Documentation status:** Draft · **Reviewed:** 2026-07-17 · GerLab verification is still required for photos, approved materials, and tested settings.
+
 This page documents GerLab’s vinyl cutter, including machine information, technical specifications, basic use, materials, file preparation, safety notes, cutting workflow, troubleshooting, and maintenance notes.
 
 ---
@@ -21,7 +25,7 @@ This page documents GerLab’s vinyl cutter, including machine information, tech
 
 ## Photos
 
-Add GerLab’s own photos here.
+> Photo required: full machine, model label, control panel, blade holder, pinch rollers, media-loading path, and test-cut example.
 
 ---
 
@@ -595,3 +599,5 @@ Useful references:
 ---
 
 **Made with care in Mongolia.**
+
+[← Previous: Resin 3D Printers](resin-3d-printer.md) · [↑ Machine Library](README.md) · [Next: Vinyl Printer →](vinyl-printer.md)

@@ -6,13 +6,18 @@ This repository lists GerLab fabrication equipment and links to each machine gui
 |---|---|---|---|---:|
 | Laser Cutting | Epilog Fusion Pro Laser Cutter | [laser-cutter.md](laser-cutter.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
 | CNC — Wood | ShopBot PRSalpha 96 CNC Router | [cnc-router.md](cnc-router.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
-| CNC — Metal | Tormach PCNC 1100MX CNC Mill | [cnc-mill.md](cnc-mill.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
+| CNC — Metal | Tormach 1100MX CNC Mill | [cnc-mill.md](cnc-mill.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
 | CNC — Precision | Roland DG Monofab SRM-20 | [desktop-milling.md](desktop-milling.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
 | 3D Printing — FDM | Prusa i3 MK4 FDM Printer | [fdm-3d-printers.md](fdm-3d-printers.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 8 |
-| 3D Printing — Resin | Formlabs Form 3+ SLA Printer | [resin-3d-printers.md](resin-3d-printer.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 2 |
+| 3D Printing — Resin | Formlabs Form 3+ SLA Printer | [resin-3d-printer.md](resin-3d-printer.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 2 |
 | Vinyl & Print | Roland DG CAMM-1 GS-24 Vinyl Cutter | [vinyl-cutter.md](vinyl-cutter.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
 | Vinyl & Print | Roland DG VG3-640 Vinyl Printer | [vinyl-printer.md](vinyl-printer.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
 | Vacuum Forming | Formech 508FS Vacuum Former | [vacuum-former.md](vacuum-former.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
+| Metal Cutting | TTMC CS-250 Cold Saw | [cold-saw.md](cold-saw.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
+| Metal Cutting | TTMC BS Series Horizontal Band Saw | [horizontal-band-saw.md](horizontal-band-saw.md) | ![verification](https://img.shields.io/badge/model-verification%20needed-orange) | 1 |
+| Metal Cutting | TTMC TV-12 Cutting-Off Saw | [cutting-off-saw.md](cutting-off-saw.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
+| Drilling | TTMC TX530 Drilling and Tapping Machine | [floor-drill-press.md](floor-drill-press.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
+| Metal Cutting | TTMC VS-585 Vertical Band Saw | [vertical-band-saw.md](vertical-band-saw.md) | ![available](https://img.shields.io/badge/status-available-brightgreen) | 1 |
 
 ---
 
@@ -32,7 +37,7 @@ This repository lists GerLab fabrication equipment and links to each machine gui
 
 ### CNC — Metal
 
-- [Tormach PCNC 1100MX CNC Mill](cnc-mill.md)  
+- [Tormach 1100MX CNC Mill](cnc-mill.md)
   High-precision CNC mill for metal and engineering parts.  
   Used for mechanical components, fixtures, aluminum parts, prototyping, and precision machining practice.
 
@@ -50,7 +55,7 @@ This repository lists GerLab fabrication equipment and links to each machine gui
 
 ### 3D Printing — Resin
 
-- [Formlabs Form 3+ SLA Printer](resin-3d-printers.md)  
+- [Formlabs Form 3+ SLA Printer](resin-3d-printer.md)
   High-detail resin 3D printer using laser curing technology.  
   Used for fine models, detailed prototypes, smooth surface parts, miniatures, molds, and precision visual samples.
 
@@ -70,6 +75,23 @@ This repository lists GerLab fabrication equipment and links to each machine gui
   Vacuum forming machine for shaping heated plastic sheets over molds.  
   Used for packaging prototypes, plastic shells, molds, covers, educational models, cosplay parts, and product design experiments.
 
+### Metal Cutting and Drilling
+
+- [TTMC CS-250 Cold Saw](cold-saw.md)
+  Circular cold saw for accurate cutting of metal tube, bar, angle, and profiles.
+
+- [TTMC BS Series Horizontal Band Saw](horizontal-band-saw.md)
+  Horizontal metal-cutting band saw for controlled straight and mitre cuts in stock material.
+
+- [TTMC TV-12 Cutting-Off Saw](cutting-off-saw.md)
+  Abrasive cutting-off saw for rapid cutting of approved metal stock.
+
+- [TTMC TX530 Drilling and Tapping Machine](floor-drill-press.md)
+  Floor-mounted machine for controlled drilling, countersinking, and approved tapping operations.
+
+- [TTMC VS-585 Vertical Band Saw](vertical-band-saw.md)
+  Vertical metal-cutting band saw for straight, curved, and contour cuts.
+
 ## Documentation Status
 
 | Page | Status |
@@ -79,10 +101,15 @@ This repository lists GerLab fabrication equipment and links to each machine gui
 | [cnc-mill.md](cnc-mill.md) | ![draft](https://img.shields.io/badge/page-draft-yellow) |
 | [desktop-milling.md](desktop-milling.md) | ![draft](https://img.shields.io/badge/page-draft-yellow) |
 | [fdm-3d-printers.md](fdm-3d-printers.md) | ![draft](https://img.shields.io/badge/page-draft-yellow) |
-| [resin-3d-printers.md](resin-3d-printers.md) | ![draft](https://img.shields.io/badge/page-draft-yellow) |
+| [resin-3d-printer.md](resin-3d-printer.md) | ![draft](https://img.shields.io/badge/page-draft-yellow) |
 | [vinyl-cutter.md](vinyl-cutter.md) | ![draft](https://img.shields.io/badge/page-draft-yellow) |
 | [vinyl-printer.md](vinyl-printer.md) | ![draft](https://img.shields.io/badge/page-draft-yellow) |
 | [vacuum-former.md](vacuum-former.md) | ![draft](https://img.shields.io/badge/page-draft-yellow) |
+| [cold-saw.md](cold-saw.md) | ![draft](https://img.shields.io/badge/page-draft-yellow) |
+| [horizontal-band-saw.md](horizontal-band-saw.md) | ![verification](https://img.shields.io/badge/page-model%20verification%20needed-orange) |
+| [cutting-off-saw.md](cutting-off-saw.md) | ![draft](https://img.shields.io/badge/page-draft-yellow) |
+| [floor-drill-press.md](floor-drill-press.md) | ![draft](https://img.shields.io/badge/page-draft-yellow) |
+| [vertical-band-saw.md](vertical-band-saw.md) | ![draft](https://img.shields.io/badge/page-draft-yellow) |
 
 ---
 

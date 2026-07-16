@@ -1,5 +1,9 @@
 # Vacuum Former
 
+[← Previous: Vinyl Printer](vinyl-printer.md) · [↑ Machine Library](README.md) · [Next: Cold Saw →](cold-saw.md)
+
+> **Documentation status:** Draft · **Reviewed:** 2026-07-17 · GerLab verification is still required for photos, approved materials, and tested settings.
+
 This page documents GerLab’s vacuum former, including machine information, technical specifications, basic use, materials, safety notes, mold preparation, forming workflow, troubleshooting, and maintenance notes.
 
 ---
@@ -20,6 +24,8 @@ This page documents GerLab’s vacuum former, including machine information, tec
 ---
 
 ## Photos
+
+> Photo required: full machine, model label, control panel, clamp frame, heater, forming table, vacuum system, release controls, and emergency stop.
 
 ---
 
@@ -566,3 +572,5 @@ Useful references:
 ---
 
 **Made with care in Mongolia.**
+
+[← Previous: Vinyl Printer](vinyl-printer.md) · [↑ Machine Library](README.md) · [Next: Cold Saw →](cold-saw.md)

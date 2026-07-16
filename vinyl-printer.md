@@ -1,6 +1,16 @@
 # Vinyl Printer
 
+[← Previous: Vinyl Cutter](vinyl-cutter.md) · [↑ Machine Library](README.md) · [Next: Vacuum Former →](vacuum-former.md)
+
+> **Documentation status:** Draft · **Reviewed:** 2026-07-17 · GerLab verification is still required for photos, approved materials, and tested settings.
+
 This page documents GerLab’s vinyl printer, including machine information, technical specifications, basic use, materials, file preparation, safety notes, printing workflow, cutting workflow, troubleshooting, and maintenance notes.
+
+---
+
+## Photos
+
+> Photo required: full machine, model label, control panel, ink system, pinch rollers, media-loading path, take-up system, heater area, and maintenance station.
 
 ---
 
@@ -670,3 +680,5 @@ Useful references:
 ---
 
 **Made with care in Mongolia.**
+
+[← Previous: Vinyl Cutter](vinyl-cutter.md) · [↑ Machine Library](README.md) · [Next: Vacuum Former →](vacuum-former.md)

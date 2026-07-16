@@ -1,5 +1,9 @@
 # Desktop Milling
 
+[← Previous: CNC Mill](cnc-mill.md) · [↑ Machine Library](README.md) · [Next: FDM 3D Printers →](fdm-3d-printers.md)
+
+> **Documentation status:** Draft · **Reviewed:** 2026-07-17 · GerLab verification is still required for photos, approved materials, and tested settings.
+
 This page documents GerLab’s desktop milling machine, including machine information, technical specifications, basic use, materials, safety notes, file preparation, milling workflow, troubleshooting, and maintenance notes.
 
 ---
@@ -20,6 +24,8 @@ This page documents GerLab’s desktop milling machine, including machine inform
 ---
 
 ## Photos
+
+> Photo required: full machine, model label, front cover, spindle, collet, worktable, control panel, and tool-storage area.
 
 ---
 
@@ -632,3 +638,5 @@ Useful references:
 ---
 
 **Made with care in Mongolia.**
+
+[← Previous: CNC Mill](cnc-mill.md) · [↑ Machine Library](README.md) · [Next: FDM 3D Printers →](fdm-3d-printers.md)
